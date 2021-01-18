@@ -1,1 +1,0 @@
-SECRET_KEY = '6ligizxp_5aa*agn8+np#j%)6kybz-08oob9hmj11a0xrl7^h9'
