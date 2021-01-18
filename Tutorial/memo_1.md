@@ -166,3 +166,4 @@ polls/
 
 ## (3) [チュートリアル2](https://docs.djangoproject.com/ja/3.1/intro/tutorial02/)
 
+secret key
